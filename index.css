@@ -81,7 +81,7 @@ body {
   z-index: 7;
 }
 body {
-  background-image: url(/images/bg-intro-mobile.svg);
+  background-image: url(./bg-intro-mobile.svg);
   background-repeat: no-repeat;
   background-position-x: 2rem;
   width: 100vw;
@@ -309,7 +309,7 @@ body {
     display: none;
   }
   body {
-    background-image: url(/images/bg-intro-desktop.svg);
+    background-image: url(./bg-intro-desktop.svg);
     background-position-y: -12rem;
     background-position-x: 15rem;
     margin: 0;
